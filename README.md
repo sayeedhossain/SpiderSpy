@@ -33,11 +33,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+   
   </ol>
 </details>
 
@@ -45,10 +41,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+<div align="center">
  <a href="https://spiderspy.giveturn.com/">
-    <img src="img/cover.jpg" alt="Logo" width="280" height="150">
-  </a>
+    <img src="img/cover.jpg" alt="Logo" width="280px" height="360px">
+  </a></div>
 
 SpiderSpy Monitoring is the next generation of smartphone surveillance software. This mobile Monitoring/tracker application records the incoming and outgoing phone calls, Whatsapp calls, sms and surroundings with tracks gps locations, the browser activity and messages from applications like Whatsapp, Facebook, Viber, Skype, Line etc. Also it has more features like hidden app icon (stealth mode), take pictures, advance and powerful keylogger, phishing social network,get every click etc. And the most important thing is that you can use this app for Multiple Child clients.
 
