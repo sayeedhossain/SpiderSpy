@@ -82,8 +82,6 @@ For more details, Check out the website: <a href="https://spiderspy.giveturn.com
 
 ### Built With
 
-Download  
-
 * [Android Studio](https://developer.android.com/studio)
 * [Kotlin](https://kotlinlang.org/)
 * [Firebase](https://firebase.google.com/)
